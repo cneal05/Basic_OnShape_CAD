@@ -32,9 +32,19 @@ This assignment was a little bit harder than the others because we had to do som
 ## Tire
 ### Assignment
 Create the Tire for the Wheel of the Caster in OnShape.
-###
+### Image
 ![Tire_Caster](images/TireCaster.png)
 ### Reflection
 This Assignment was probably the easiest of the ones we have had, because the only thting you need to do is make a trapzoid and revolve it around an axis and you are done.
 #### Link
 [Tire_Caster](https://cvilleschools.onshape.com/documents/98e130bca184aefd480b0533/w/443bf01e6d514bd2dfee2aa8/e/63a4241f91cd8070ccae86ff)
+
+## Wheel 
+### Assignment
+Construct the Wheel fro the Caster in OnShape.
+### Image
+![Wheel_Caster](images/WheelCaster.png)
+### Reflection
+This assignment was a little bit more challenging than the others but still not to difficult. The Assembly might be a little bit harder then usual due to not having done an assebly in OnShape before.
+#### Link
+[Wheel_Caster](https://cvilleschools.onshape.com/documents/98e130bca184aefd480b0533/w/443bf01e6d514bd2dfee2aa8/e/25fe20a41bc280bdb66261fe)
