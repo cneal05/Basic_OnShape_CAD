@@ -23,3 +23,11 @@ Create the Fork part for the Caster assembly in OnShape CAD.
 ![Fork_Caster](images/ForkCaster.png)
 ### Reflection
 This assignment was a little bit harder than the others because we had to do somethings that I forgot how to do.
+
+## Tire
+### Assignment
+Create the Tire for the Wheel of the Caster in OnShape.
+###
+![Tire_Caster](images/TireCaster.png)
+### Reflection
+This Assignment was probably the easiest of the ones we have had, because the only thting you need to do is make a trapzoid and revolve it around an axis and you are done.
