@@ -48,3 +48,17 @@ Construct the Wheel fro the Caster in OnShape.
 This assignment was a little bit more challenging than the others but still not to difficult. The Assembly might be a little bit harder then usual due to not having done an assebly in OnShape before.
 #### Link
 [Wheel_Caster](https://cvilleschools.onshape.com/documents/98e130bca184aefd480b0533/w/443bf01e6d514bd2dfee2aa8/e/25fe20a41bc280bdb66261fe)
+
+## Axle, Collar, Bearings
+### Assignments
+Create the axle, collar, and the two different bearing for the final caster assembly in OnShape
+### Image
+![Axle_and_Collar](images/AxleCollarCaster.png)
+![Bearing](images/BearingCaster.png)
+![Bearing_2](images/Bearing2Caster.png)
+### Reflection
+This assignment was a little challenging mostly because it was just alot of stuff not a lot of hard things to do just the amount of ddifferent pieces was a little challenging.
+#### Link
+[Axle_and_Collar](https://cvilleschools.onshape.com/documents/74d7cfb8b0aeaad21995124a/w/16399554e163aded6ca79240/e/e5d891a37fcb17584f45dad2)
+[Bearing](https://cvilleschools.onshape.com/documents/98e130bca184aefd480b0533/w/443bf01e6d514bd2dfee2aa8/e/25fe20a41bc280bdb66261fe)
+[Bearing_2](https://cvilleschools.onshape.com/documents/78d3c54c06445aa684676912/w/e928ba8f9b79d46fed967717/e/b7f6a4c22f198125fef8544c)
