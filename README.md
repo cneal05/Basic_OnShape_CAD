@@ -57,8 +57,18 @@ Create the axle, collar, and the two different bearing for the final caster asse
 ![Bearing](images/BearingCaster.png)
 ![Bearing_2](images/Bearing2Caster.png)
 ### Reflection
-This assignment was a little challenging mostly because it was just alot of stuff not a lot of hard things to do just the amount of ddifferent pieces was a little challenging.
+This assignment was a little challenging mostly because it was just alot of stuff not a lot of hard things to do just the amount of different pieces was a little challenging.
 #### Link
 [Axle_and_Collar](https://cvilleschools.onshape.com/documents/74d7cfb8b0aeaad21995124a/w/16399554e163aded6ca79240/e/e5d891a37fcb17584f45dad2)
 [Bearing](https://cvilleschools.onshape.com/documents/98e130bca184aefd480b0533/w/443bf01e6d514bd2dfee2aa8/e/25fe20a41bc280bdb66261fe)
 [Bearing_2](https://cvilleschools.onshape.com/documents/78d3c54c06445aa684676912/w/e928ba8f9b79d46fed967717/e/b7f6a4c22f198125fef8544c)
+
+## Sub-Assembly
+### Assignment
+Construct the sub-assembly in OnShape before finishing the final caster assembly.
+### Image
+![Sub-Assembly_Caster](images/Sub-AssemblyCaster.png)
+### Reflection
+I would have to say that this was one of the harder assignments solely because it was my first time doing an assembly in OnShape and I had to learn how to do it, which made it hard but still not incredibly difficult.
+### Link
+[Sub-Assembly](https://cvilleschools.onshape.com/documents/d9890880669fae9d5d28a3bf/w/71c63cb11c2bac07471e4ae4/e/276332e0672e413d2f0075e3)
