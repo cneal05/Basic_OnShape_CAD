@@ -72,3 +72,13 @@ Construct the sub-assembly in OnShape before finishing the final caster assembly
 I would have to say that this was one of the harder assignments solely because it was my first time doing an assembly in OnShape and I had to learn how to do it, which made it hard but still not incredibly difficult.
 ### Link
 [Sub-Assembly](https://cvilleschools.onshape.com/documents/d9890880669fae9d5d28a3bf/w/71c63cb11c2bac07471e4ae4/e/276332e0672e413d2f0075e3)
+
+## Final Caster
+### Assignment
+Complete the final Caster assembly in OnShape.
+### Image
+![Final_Caster](images/FinalCaster.png)
+### Reflection
+This final assembly was kind of difficult bcause there were some new thing that I had to learn that I hadn't done before in OnShape, like getting all of the mates correct Because at one point my axle was off-centered just by a tiny bit, but it made it so I had to go  back and fix it in the sub-assembly. Also learnig how to implement screws, bolts and nuts was not super easy, due to having to do it on a new syestem.
+### Link
+[Final_Caster](https://cvilleschools.onshape.com/documents/2b43f2715114c3d5bd413c3a/w/acb3f1d731a710d1b8ba29a2/e/becdffd2f36a31dc2f7a2da9)
