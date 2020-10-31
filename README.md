@@ -87,10 +87,10 @@ This final assembly was kind of difficult bcause there were some new thing that 
 ### Assignment
 Create a frame using configurations of two parts, the frame and the pins.
 ### Image
-![Pins](images/Pin.png)
-![Frame](images/Frame.png)
-![PictureFrame](images/PictureFrame.png)
+![Pins](images/Pin.PNG)
+![Frame](images/Frame.PNG)
+![PictureFrame](images/PictureFrame.PNG)
 ### Reflection
 This assignment was harder than the past assignments due to the fact that I had to guess on some of the measurements, because I was not given all of them. It was also a learning expierence to learn how to use configurations in OnShape.
 ### Link
-[Dorothy's Dowel Pins and Picture Frame]()
+[Dorothy's Dowel Pins and Picture Frame](https://cvilleschools.onshape.com/documents/4628c4a2d3cd8bec670c8dfa/w/c3290220f6bdd51f67994500/e/5ea779d16e7a1471274c2b83)
